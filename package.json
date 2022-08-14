@@ -1,0 +1,15 @@
+{
+  "name": "devxhub-frontend-challenge",
+  "version": "1.0.0",
+  "description": "DevXHub Frontend Coding Challenge",
+  "main": "index.js",
+  "repository": "git@github.com:devxhubcom/devxhub-frontend-challenge.git",
+  "author": "DevXHub Recruiting Team",
+  "license": "MIT",
+  "scripts": {
+    "server": "json-server db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
